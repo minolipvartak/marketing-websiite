@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "async": "^2.3.0",
+    "async": "^3.2.2",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.18.3",
     "contentstack": "^3.0.1",
